@@ -2,7 +2,9 @@
 
 ## deployed app link on Heroku :
 
-[link](https://advance-js-lab03.herokuapp.com/)
+[app_link](https://advance-js-lab03.herokuapp.com/)
+
+[Pull Request](https://github.com/JalalHasan-22/basic-api-server/pull/2)
 
 In this lab, I have created a basic server dealing with postgres database using sequelize, I have created two models one for clothes and one for food, each model defines a schema for the postgres database.
 

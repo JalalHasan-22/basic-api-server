@@ -15,6 +15,7 @@
   "description": "",
   "version": "1.0.0",
   "main": "index.js",
+  "start": "node index.js",
   "scripts": {
     "test": "jest --verbose --coverage"
   },

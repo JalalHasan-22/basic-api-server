@@ -1,5 +1,11 @@
 # basic-api-server
 
+## deployed app link on Heroku :
+
+[app_link](https://advance-js-lab03.herokuapp.com/)
+
+[Pull Request](https://github.com/JalalHasan-22/basic-api-server/pull/2)
+
 In this lab, I have created a basic server dealing with postgres database using sequelize, I have created two models one for clothes and one for food, each model defines a schema for the postgres database.
 
 I installed sequelize, and inside model directory, in the index.js, I emported the sequelize and created a new instance to connect to the databse using the databse link found in the .env file, I also imported the DataTypes to pass it to the models functions as an argument.
